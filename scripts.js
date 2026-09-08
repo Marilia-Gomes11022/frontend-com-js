@@ -1,0 +1,1 @@
+const mensagem = "Hello World!";
